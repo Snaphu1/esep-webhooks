@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = EsepWebhook
-build_property.ProjectDir = c:\Users\micha\esep-webhooks\EsepWebhook\src\EsepWebhook\
+build_property.RootNamespace = EsepWebhook.Tests
+build_property.ProjectDir = c:\Users\micha\esep-webhooks\EsepWebhook\test\EsepWebhook.Tests\

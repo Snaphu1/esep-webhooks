@@ -15,3 +15,11 @@ C:\Users\micha\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\refint\E
 C:\Users\micha\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\EsepWebhook.pdb
 C:\Users\micha\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\EsepWebhook.genruntimeconfig.cache
 C:\Users\micha\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\ref\EsepWebhook.dll
+C:\Users\micha\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\EsepWebhook.csproj.AssemblyReference.cache
+C:\Users\micha\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\EsepWebhook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\EsepWebhook.AssemblyInfoInputs.cache
+C:\Users\micha\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\EsepWebhook.AssemblyInfo.cs
+C:\Users\micha\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\EsepWebhook.csproj.CoreCompileInputs.cache
+C:\Users\micha\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\EsepWebhook.dll
+C:\Users\micha\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\refint\EsepWebhook.dll
+C:\Users\micha\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Release\net6.0\linux-x64\EsepWebhook.pdb

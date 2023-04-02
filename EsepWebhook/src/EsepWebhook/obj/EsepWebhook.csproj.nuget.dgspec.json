@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\micha\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj": {}
+    "C:\\Users\\micha\\esep-webhooks\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj": {}
   },
   "projects": {
-    "C:\\Users\\micha\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj": {
+    "C:\\Users\\micha\\esep-webhooks\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\micha\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj",
+        "projectUniqueName": "C:\\Users\\micha\\esep-webhooks\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj",
         "projectName": "EsepWebhook",
-        "projectPath": "C:\\Users\\micha\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj",
+        "projectPath": "C:\\Users\\micha\\esep-webhooks\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj",
         "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\micha\\EsepWebhook\\src\\EsepWebhook\\obj\\",
+        "outputPath": "C:\\Users\\micha\\esep-webhooks\\EsepWebhook\\src\\EsepWebhook\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config"
